@@ -1,0 +1,107 @@
+[
+  {
+    "title": "IPL Auction",
+    "description": "Non-Technical",
+    "image": "/events/1.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall A",
+    "timings": "10:00 AM - 12:00 PM",
+    "facultyCoordinators": "Mr. S. Sridhar",
+    "studentCoordinators": [
+      {
+        "name": "Samhitha Gopalan",
+        "phone": "9500144555"
+      },
+      {
+        "name": "G.MOHAMMED AZAM",
+        "phone": "8825490954"
+      }
+    ],
+    "backDetails": "Participants strategize and bid with a virtual budget to assemble their ultimate playing XI, creating a balanced team of batsmen, bowlers, and all-rounders."
+  },
+  {
+    "title": "Shipwreck",
+    "description": "Non-Technical",
+    "image": "/events/5.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall B",
+    "timings": "1:00 PM - 3:00 PM",
+    "facultyCoordinators": "Dr. R. Dayana",
+    "studentCoordinators": [
+      {
+        "name": "K Gomathi Ganeasan",
+        "phone": "9994257235"
+      },
+      {
+        "name": "Krishith",
+        "phone": "9840583113"
+      }
+    ],
+    "backDetails": "On a hypothetical deserted island, contestants must creatively persuade a judge to save them and secure a spot in the Lifeboat, showcasing their storytelling and quick-thinking abilities."
+  },
+  {
+    "title": "Meme Mania",
+    "description": "Non-Technical",
+    "image": "/events/7.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall C",
+    "timings": "3:30 PM - 5:30 PM",
+    "facultyCoordinators": "Dr. R. Gayathri",
+    "studentCoordinators": [
+      {
+        "name": "Sanjana K N",
+        "phone": "6379814068"
+      },
+      {
+        "name": "Raj Pranav Raghavan ",
+        "phone": "9952087697"
+      }
+    ],
+    "backDetails": "This fun and competitive meme creation event encourages participants to craft humorous content based on a given theme, with the best entries advancing through multiple rounds."
+  },
+  {
+    "title": "Whisper Challenge",
+    "description": "Non-Technical",
+    "image": "/events/11.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall D",
+    "timings": "9:00 AM - 11:00 AM",
+    "facultyCoordinators": "Ms. R. Deepa",
+    "studentCoordinators": [
+      {
+        "name": "Dhivyalakshmi V",
+        "phone": "9884108963"
+      },
+      {
+        "name": "Chandrika Banerjee",
+        "phone": "9331345661"
+      }
+    ],
+    "backDetails": "This session challenges participants to guess silently spoken phrases by lip-reading, all while wearing headphones, promoting teamwork and laughter."
+  },
+  {
+    "title": "Adzap",
+    "description": "Non-Technical",
+    "image": "/events/12.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall E",
+    "timings": "2:00 PM - 4:00 PM",
+    "facultyCoordinators": "Dr. Augusta Kani ",
+    "studentCoordinators": [
+      {
+        "name": "Anshula S",
+        "phone": "7411916599"
+      },
+      {
+        "name": "Sreenidhi",
+        "phone": "6369807873"
+      }
+    ],
+    "backDetails": "This invites teams to develop and present innovative advertisements based on assigned topics, with the best performances advancing to the next round."
+  }
+]

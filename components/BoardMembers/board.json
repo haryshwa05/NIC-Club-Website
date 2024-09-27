@@ -1,0 +1,82 @@
+[
+    {
+      "name": "Akshaya J",
+      "designation": "President",
+      "imageUrl": "/akshaya.jpeg"
+    },
+    {
+      "name": "Vishal Umasankar",
+      "designation": "Vice-President",
+      "imageUrl": "/vishal.jpg"
+    },
+    {
+      "name": "Sanjanaa R",
+      "designation": "Secretary & Head of Working Committee",
+      "imageUrl": "/sanjanaa.jpg"
+    },
+    {
+      "name": "Krithick S",
+      "designation": "Treasurer",
+      "imageUrl": "/krithick.jpg"
+    },
+    {
+      "name": "Vaishnavendra K R",
+      "designation": "Technical Head",
+      "imageUrl": "/Vaishnavendra2.jpg"
+    },
+    {
+      "name": "Hasvanth S",
+      "designation": "Head of Design",
+      "imageUrl": "/Hasvanth.jpg"
+    },
+    {
+      "name": "Jai shree V",
+      "designation": "Head of Outreach & Content",
+      "imageUrl": "/Jaishree.jpg"
+    },
+    {
+      "name": "Abinandhan S",
+      "designation": "Head of Logistics",
+      "imageUrl": "/abhi.jpg"
+    },
+    {
+      "name": "Ramprakash R",
+      "designation": "Joint Secretary",
+      "imageUrl": "/ramprakash.jpg"
+    },
+    {
+      "name": "Sheerin S",
+      "designation": "Joint Head of Working Committee",
+      "imageUrl": "/sheerin.jpg"
+    },
+    {
+      "name": "Kalaimani P",
+      "designation": "Joint Treasurer",
+      "imageUrl": "/Kalai.jpg"
+    },
+    {
+      "name": "Sri varshini B S",
+      "designation": "Joint Technical Head",
+      "imageUrl": "/SriVarshini.jpg"
+    },
+    {
+      "name": "Prabhakaran S",
+      "designation": "Joint Head of Design",
+      "imageUrl": "/prabha2.jpg"
+    },
+    {
+      "name": "Kanishkaa C",
+      "designation": "Joint Head of Content",
+      "imageUrl": "/Kanishkaa2.jpg"
+    },
+    {
+      "name": "Reshmi R",
+      "designation": "Joint Head of Outreach",
+      "imageUrl": "/reshmi.jpg"
+    },
+    {
+      "name": "Sabareeswar B",
+      "designation": "Joint Head of Logistics",
+      "imageUrl": "/sabareeswar2.jpg"
+    }
+]

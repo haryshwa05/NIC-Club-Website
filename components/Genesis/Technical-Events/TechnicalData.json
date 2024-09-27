@@ -1,0 +1,108 @@
+[
+  {
+    "title": "Web Dev",
+    "description": "Technical Event",
+    "image": "/events/2.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "timings": "10:00 AM - 1:00 PM",
+    "facultyCoordinators": "Dr. S. K. B. Sangeetha",
+    "studentCoordinators": [
+
+      {
+        "name": "Rohan Sharma ",
+        "phone": "9352159601"
+      },
+
+      {
+        "name": "WilliamCarey",
+        "phone": "8050058844"
+      }
+    ],
+    "backDetails": "Teams will demonstrate their design, technical expertise, and creativity by building dynamic web applications within a limited timeframe."
+  },
+  {
+    "title": "Tech Battle",
+    "description": "Technical Event",
+    "image": "/events/4.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall B",
+    "timings": "10:00 AM - 1:00 PM",
+    "facultyCoordinators": "Dr. B. Prabha",
+    "studentCoordinators": [
+      {
+        "name": "Bhargav",
+        "phone": "9652715933"
+      },
+      {
+        "name": "Sri Varsha S",
+        "phone": "9363050427"
+      }
+    ],
+    "backDetails": "Gear up for Tech Battle, a dynamic quiz designed to challenge SQL and database management expertise, pushing skills to the limit while uncovering areas for growth."
+  },
+  {
+    "title": "Paper Presentation",
+    "description": "Technical Event",
+    "image": "/events/6.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall C",
+    "timings": "10:30 AM - 1:00 PM",
+    "facultyCoordinators": "Dr. N. Bharathi Gopalsamy",
+    "studentCoordinators": [
+      {
+        "name": "Yuvasri ",
+        "phone": "8610273156"
+      },
+      {
+        "name": "Mrinmayi Verma",
+        "phone": "6380574316"
+      }
+    ],
+    "backDetails": "This will showcase innovative research, where participants present their work on various technical topics, highlighting problem-solving approaches, methodologies, and key findings in the research."
+  },
+  {
+    "title": "Get Set Code",
+    "description": "Technical Event",
+    "image": "/events/8.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall D",
+    "timings": "9:00 AM - 11:00 AM",
+    "facultyCoordinators": "Ms. P. Jayanthi",
+    "studentCoordinators": [
+      {
+        "name": "Vaibhav S Jain",
+        "phone": "6369732599"
+      },
+      {
+        "name": "Eswaramuthu M ",
+        "phone": "8072980209"
+      }
+    ],
+    "backDetails": "This is a thrilling coding event focused on debugging and enhancing problem-solving skills, where participants compete in intense challenges to showcase their abilities and creativity."
+  },
+  {
+    "title": "Cipher Chase",
+    "description": "Technical Event",
+    "image": "/events/9.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall E",
+    "timings": "2:00 PM - 4:00 PM",
+    "facultyCoordinators": "Dr. Jessy Sujana G",
+    "studentCoordinators": [
+      {
+        "name": "Navika Menon",
+        "phone": "9150806906"
+      },
+      {
+        "name": "Y. Sai Chandana",
+        "phone": "8328140681"
+      }
+    ],
+    "backDetails": "Successfully unlocking the password unveils hidden clues that lead to a series of problem-solving tasks, designed to sharpen logical thinking and attention to detail."
+  }
+]

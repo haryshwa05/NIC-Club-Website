@@ -1,0 +1,19 @@
+[
+    {
+      "date": "Sep 11th 2020",
+      "title": "Never forget",
+      "author": "Jeff Delaney",
+      "authorTitle": "Author",
+      "avatar": "avatar.png",
+      "tags": ["html", "css", "web-dev"]
+    },
+    {
+      "date": "Sep 11th 2020",
+      "title": "Card Tricks are fun!",
+      "author": "Zheng Zhilong",
+      "authorTitle": "Pirate",
+      "avatar": "https://api.adorable.io/avatars/172/a.png",
+      "tags": ["html", "css"]
+    }
+  ]
+  

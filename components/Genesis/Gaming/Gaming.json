@@ -1,0 +1,65 @@
+[
+  {
+    "title": "BGMI",
+    "description": "Gaming",
+    "image": "/events/3.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall A",
+    "timings": "10:00 AM - 12:00 PM",
+    "facultyCoordinators": "Dr. Neelam Sanjeev Kumar",
+    "studentCoordinators": [
+      {
+        "name": "R Vikram Eashwar",
+        "phone": "9841179487"
+      },
+      {
+        "name": "D.D.MOHEETH KUMAR",
+        "phone": "7845591717"
+      }
+    ],
+    "backDetails": "This overview will focus on an exciting battle royale game where up to 100 players are dropped onto a diverse map to compete for survival, engaging in strategic combat and scavenging for weapons and supplies while employing tactics to outlast their opponents."
+  },
+  {
+    "title": "FIFA",
+    "description": "Gaming",
+    "image": "/events/10.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall B",
+    "timings": "1:00 PM - 3:00 PM",
+    "facultyCoordinators": "Dr.Dhiyanesh",
+    "studentCoordinators": [
+      {
+        "name": "Jayaant",
+        "phone": "9790546001"
+      },
+      {
+        "name": "Jayachandhran R",
+        "phone": "9345348887"
+      }
+    ],
+    "backDetails": "This session will explore a simulated soccer experience, offering participants insight into two teams of 11 players competing to score goals within two 45-minute halves, while covering key gameplay elements like offside rules, ball in and out of play guidelines, and the finality of referee decisions."
+  },
+  {
+    "title": "VALORANT",
+    "description": "Gaming",
+    "image": "/events/13.png",
+    "detailsText": "Details",
+    "registerText": "Register",
+    "venue": "Hall C",
+    "timings": "3:30 PM - 5:30 PM",
+    "facultyCoordinators": "Prof. Anil Kapoor",
+    "studentCoordinators": [
+      {
+        "name": "Kanishkar.K",
+        "phone": "8807561187"
+      },
+      {
+        "name": "Athithya",
+        "phone": "8838101969"
+      }
+    ],
+    "backDetails": "In this tactical first-person shooter, two teams of five players compete to plant or defuse the Spike, with the first team to win 13 rounds claiming victory while following key rules and cooldown mechanics."
+  }
+]

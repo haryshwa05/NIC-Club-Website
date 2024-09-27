@@ -1,0 +1,30 @@
+.nav-link {
+  position: relative;
+  padding: 0.5rem 1rem;
+  cursor: pointer;
+  display: inline-block;
+  color: inherit;
+}
+
+.nav-link::before {
+  content: "";
+  position: absolute;
+  width: 0;
+  height: 2px;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: width 0.3s ease;
+}
+
+.nav-link:hover::before {
+  width: 75%;
+}
+
+.hover-white::before {
+  background-color: white;
+}
+
+.hover-black::before {
+  background-color: black;
+}

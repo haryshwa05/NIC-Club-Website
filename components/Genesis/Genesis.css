@@ -1,0 +1,8 @@
+.genesis-page {
+    background-image: url('/bg.png'); /* Add your background image */
+    background-size: cover;  /* Ensure the background covers the entire page */
+    background-position: center;  /* Center the background */
+    background-attachment: fixed; /* Make the background stay in place while scrolling */
+    background-repeat: no-repeat; /* Ensure the image doesn’t repeat */
+    min-height: 100vh; /* Ensure the page takes at least the full viewport height */
+}

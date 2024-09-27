@@ -1,0 +1,36 @@
+[
+    {
+      "title": "BLOCKCHAIN DEVELOPMENT",
+      "description": "Workshop",
+      "image": "/workshops/workshop-1.jpg",
+      "detailsText": "Details",
+      "registerText": "Register",
+      "venue": "",
+      "timings": "",
+      "coordinators": "",
+      "backDetails": "The Next Gen Intelligence Club hosted a pre-symposium Block Chain Development workshop on 21st and 22nd August 2024, led by Mr. K. Sudharsanan, Co-Founder of SkynetDAO, a US-based company based in Chennai. The workshop featured six interactive sessions, covering an introduction, web services, Polkadot and Substrate Framework, the Anchor Framework, and custom blockchain development. Each session offered a hands-on experience, allowing participants to deeply engage with the concepts. The workshop provided students with comprehensive knowledge, equipping them with valuable insights into cutting-edge technologies and frameworks."
+    },
+    {
+      "title": "LLM AND IT'S APPLICATIONS",
+      "description": "Workshop",
+      "image": "/workshops/workshop-2.jpg",
+      "detailsText": "Details",
+      "registerText": "Register",
+      "venue": "Hall B",
+      "timings": "1:00 PM - 3:00 PM",
+      "coordinators": "Example",
+      "backDetails": "On 14th August 2024, the NextGen Intelligence Club hosted a pre-symposium workshop on Large Language Models (LLMs) and their applications. The resource person for the event was Mr. Muthukumar Arumugam, CEO of IN22 Labs, Chennai. The workshop consisted of three sessions, starting with an introduction to Large Language Models, where the fundamentals of this cutting-edge technology were explained. In the second session, Mr. Muthukumar highlighted various real-world uses of LLMs across industries. The final session was interactive, allowing the Students to engage directly with the expert, ask questions, and explore deeper insights into the technology. The workshop provided a comprehensive understanding of LLMs to the Young Minds and their growing relevance in today's world."
+    },
+    {
+      "title": "DESIGN WORKSHOP",
+      "description": "Workshop",
+      "image": "/workshops/workshop-3.jpg",
+      "detailsText": "Details",
+      "registerText": "Register",
+      "venue": "Hall C",
+      "timings": "3:30 PM - 5:30 PM",
+      "coordinators": "Example",
+      "backDetails": "The Next Gen Intelligence Club held a pre-symposium design workshop on 20th August 2024, featuring Mr. Prathyaksh, Founder and CEO of Skill Dragon, and Mr. A.G. Karthik, CTO and Co-Founder. Skill Dragon, an innovative e-learning platform, partnered with the club to deliver an engaging session on design using popular tools like Canva and Adobe. The workshop provided hands-on learning with practical, day-to-day examples, making the concepts easily relatable for the students. In an exciting turn, the speakers announced a special opportunity, offering internships to students based on their performance in assigned tasks, adding a competitive and career-building element to the event."
+    }
+ ]
+  

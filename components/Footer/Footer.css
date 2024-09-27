@@ -1,0 +1,184 @@
+/* General Styles */
+footer {
+  background-color: #000;
+  color: #fff;
+  width: 100%;
+  padding: 2rem 1rem;
+  box-sizing: border-box;
+}
+
+/* Define CSS variables for scaling */
+:root {
+  --base-font-size: 1rem;
+  --scale-factor: 1;
+}
+
+/* Apply the scaling to the footer container */
+.footer-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: calc(var(--base-font-size) * var(--scale-factor));
+}
+
+.footer-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  gap: 1.5rem; /* Add gap between sections */
+}
+
+.footer-section {
+  margin-bottom: 1rem;
+  font-size: calc(var(--base-font-size) * var(--scale-factor));
+}
+
+.footer-section h1,
+.footer-section h2 {
+  font-size: clamp(1.5rem, 2.5vw, 2rem); /* Fluid typography */
+}
+
+.footer-section p,
+.footer-section span,
+.footer-section a {
+  font-size: clamp(1rem, 1.5vw, 1.25rem); /* Fluid typography */
+}
+
+.stay-connected {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.stay-connected .contact-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.5rem; /* Adjust the gap between items */
+}
+
+.stay-connected .contact-info span {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem; /* Adjust the gap between icon and text */
+  text-align: center; /* Center-align text */
+}
+
+/* New CSS for labels and values on the same line */
+.stay-connected .contact-info span {
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center the label and value */
+  flex-wrap: wrap; /* Allow wrapping for small screens */
+}
+
+.stay-connected .contact-info span .label {
+  font-weight: bold;
+  margin-right: 0.5rem; /* Space between label and value */
+}
+
+.stay-connected .contact-info span .value {
+  white-space: nowrap; /* Prevent wrapping */
+}
+
+/* Responsive Styles */
+@media (min-width: 768px) {
+  .footer-container {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .footer-content {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    gap: 3rem; /* Add more gap between sections for larger screens */
+  }
+
+  .footer-section {
+    text-align: center;
+    margin-bottom: 0;
+  }
+
+  .footer-logo,
+  .stay-connected,
+  .footer-address {
+    flex: 1;
+    align-items: flex-start;
+  }
+
+  .stay-connected {
+    align-items: center;
+    justify-content: center;
+  }
+
+  .footer-logo {
+    justify-content: flex-start;
+  }
+
+  .footer-address {
+    justify-content: flex-end;
+  }
+}
+
+@media (max-width: 400px) {
+  .footer-section {
+    font-size: 0.75rem; /* Reduce font size for very small screens */
+  }
+
+  .stay-connected .contact-info {
+    gap: 0.25rem; /* Reduce gap between items */
+  }
+
+  .stay-connected .contact-info span {
+    font-size: 0.75rem; /* Further reduce font size */
+    overflow-wrap: break-word; /* Ensure long text wraps properly */
+  }
+
+  .footer-separator {
+    width: 90%; /* Make the horizontal line shorter on very small screens */
+  }
+
+  .footer-logo-img {
+    max-height: 60px; /* Ensure the logo doesn't get too small */
+    max-width: 200px; /* Adjust maximum width for smaller screens */
+  }
+
+  .footer-bottom {
+    padding: 1rem 0.5rem;
+  }
+}
+
+/* Logo Styles */
+.footer-logo-img {
+  width: 100%;
+  height: auto;
+  max-height: 75px; /* Set a smaller maximum height */
+  max-width: 300px; /* Set a maximum width */
+}
+
+/* Footer Separator */
+
+/* .footer-separator {
+  width: 100%; 
+  margin: 0 auto;
+  border-top: 2px solid #555; 
+} */
+
+/* Footer Bottom Styles */
+.footer-bottom {
+  text-align: center;
+  background-color: #18181b; /* Set background color to black */
+  padding: 1.5rem 1rem;
+}
+
+.footer-bottom p {
+  color: #ccc;
+  font-size: 0.875rem;
+  margin: 0.5rem 0; /* Equal spacing above and below the text */
+}
